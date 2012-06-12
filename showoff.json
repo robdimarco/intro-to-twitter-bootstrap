@@ -2,7 +2,11 @@
   {"section" : "title"}, 
   {"section" : "why"}, 
   {"section" : "about"}, 
-  {"section" : "html_example"}, 
-  {"section" : "in_rails"}, 
-  {"section" : "simpleform"}, 
+  {"section" : "getting_started"},
+  {"section" : "grids"},
+  {"section" : "base_css"},
+  {"section" : "components"},
+  {"section" : "javascript"},
+  {"section" : "simple_form"},
+  {"section" : "thanks"}
 ]}
